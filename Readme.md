@@ -70,18 +70,18 @@
      </td>
    </tr>
 </table>
-<table>
+<!-- <table>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek73555&theme=aura_dark"></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek73555&theme=aura_dark"></td>
   </tr>
-</table>
-<table>
+</table> -->
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Abhishek73555&show_icons=true&theme=radical" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
