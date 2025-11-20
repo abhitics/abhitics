@@ -2,16 +2,34 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" height="400" width="600" alt="animated hello">
 </p> -->
 <!-- <img src="https://camo.githubusercontent.com/645bbf4b5b014e36fc4c1b6e54c4fb0262275c7924da0afcd4cc82cfc595893a/68747470733a2f2f697473686976616d2e696e2f6170692f6769746875622d696d6167653f757365726e616d653d697473686976616d73" height="300" data-canonical-src="https://itshivam.in/api/github-image?username=Abhishek73555" style="max-width: 100%; height: auto; max-height: 300px;"> -->
-<div align="center">
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://itshivam.in/api/github-image?username=Abhishek73555"
+    />
+    <source 
+      media="(prefers-color-scheme: light)"
+      srcset="https://itshivam.in/api/github-image?username=Abhishek73555"
+    />
+    <img 
+      src="https://itshivam.in/api/github-image?username=Abhishek73555"
+      style="
+        border-radius: 16px;
+        filter: drop-shadow(0 0 18px rgba(0, 150, 255, 0.4));
+      "
+    />
+  </picture>
+</p>
+
+<!-- <div align="center">
   <img 
   src="https://itshivam.in/api/github-image?username=Abhishek73555" 
   alt="GitHub Image - Abhishek73555"
   height="300"
   style="max-width: 100%; height: auto; max-height: 300px;"
 />
-</div>
-
-
+</div> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <img 
