@@ -49,7 +49,8 @@
 <!-- <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-### 💫 About Me:
+<br/>
+💫 About Me:
 
 - 🌱 &nbsp; I’m currently learning **Full Stack Web Development**.
 - 👨‍💻 &nbsp; All of my projects are available at **http://localhost:8000/**
