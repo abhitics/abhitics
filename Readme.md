@@ -31,13 +31,23 @@
 />
 </div> -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <img 
   src="http://itshivam.in/api/github-profile?username=Abhishek73555&data=followers,repositories,stars,commits&theme=neon" 
   alt="GitHub WidgetBox - abhitics" 
   width="90%" 
   style="max-width: 100%;" 
+/> -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<img 
+  src="http://itshivam.in/api/github-profile?username=Abhishek73555&data=followers,repositories,stars,commits&theme=blue" 
+  alt="GitHub WidgetBox - Abhishek73555" 
+  width="90%" 
+  style="max-width: 100%;" 
 />
+
+
 
 <p align="left"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=Abhishek73555&label=Visitors&color=0e75b6&style=flat-square" alt="Abhishek_Tiwari" />  -->
