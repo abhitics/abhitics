@@ -21,6 +21,7 @@
 />
 
 <br/>
+
  <div align="center">
 
 | Competition | Achievement | Participants |
@@ -29,12 +30,14 @@
 | 🏆 **HackCBS 8.0** | Top-10 | 800+ teams |
 
 </div> 
+
 <br/>
 </div>
 
-<a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhishek-tiwari-8b5598315"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a>
+
 
   
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <div align="center">
 
@@ -111,6 +114,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhishek-tiwari-8b5598315"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
 
 # 📊 GitHub Stats:
 <table>
