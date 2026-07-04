@@ -7,8 +7,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <img 
-  src="http://itshivam.in/api/github-profile?username=Abhishek73555&data=followers,repositories,stars,commits&theme=blue" 
-  alt="GitHub WidgetBox - Abhishek73555" 
+  src="http://itshivam.in/api/github-profile?username=abhitics&data=followers,repositories,stars,commits&theme=blue" 
+  alt="GitHub WidgetBox - abhitics" 
   width="90%" 
   style="max-width: 100%;" 
 />
@@ -16,7 +16,7 @@
 <p align="center"> 
   <img 
   src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbhishek73555&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" 
-  alt=" Profile Visitors - Abhishek73555"
+  alt=" Profile Visitors - abhitics"
   style="max-width: 100%;"
 />
 
@@ -115,7 +115,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhishek-tiwari-8b5598315"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
+<a href="https://abhitics.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1F1F1F"/> </a> <a href="https://linkedin.com/in/abhitics"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F1F1F"/> </a> <a href="mailto:abhishri73555@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F"/> </a> 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=38&fontColor=ffffff&color=gradient&customColorList=0,67,128,171,98,126,234,118,75,162&animation=twinkling&fontAlignY=60&desc=Let's%20connect%20and%20build%20something%20amazing%20together!&descSize=22&descAlignY=85)
 
