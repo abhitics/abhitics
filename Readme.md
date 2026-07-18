@@ -86,12 +86,12 @@
 
 
 
-<!-- <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+ <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=graph&logoColor=white" />
 <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=smith&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=protocol&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/MCP-00599C?style=for-the-badge&logo=protocol&logoColor=white" /> 
 
 ### 💾 Version Control
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -101,9 +101,9 @@
 
 ### 🖥️ Editors & IDEs
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
+ <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> -->
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" /> 
 
 ### 🐧 Operating Systems
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
